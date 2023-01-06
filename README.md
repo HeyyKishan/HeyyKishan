@@ -1,7 +1,7 @@
  Konichiwa 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img hight="400" width="600" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/13626.gif">
 </div>
 
 </br>
@@ -13,7 +13,7 @@
 
 ### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://media.tenor.com/Ch4VFEjuI7IAAAAM/anime-boy.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
